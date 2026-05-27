@@ -32,7 +32,7 @@ I design and operate infrastructure at scale — containerized workloads on Kube
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
-**Cloud**
+**Cloud Provider**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
@@ -41,7 +41,6 @@ I design and operate infrastructure at scale — containerized workloads on Kube
 ![MikroTik](https://img.shields.io/badge/MikroTik-E0332A?style=flat-square&logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-`TCP/IP` &nbsp;`Switching` &nbsp;`Routing` &nbsp;`Firewall`
 
 **CI/CD**
 
@@ -87,12 +86,8 @@ I design and operate infrastructure at scale — containerized workloads on Kube
 
 ![](https://streak-stats.demolab.com/?user=mossZmossZ&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mossZmossZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mossZmossZ)
 
 </div>
----
 
 ## Connect
 
