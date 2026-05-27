@@ -2,7 +2,7 @@
 
 # Hi, I'm Nattavee
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=550&lines=Infrastructure+Engineer;Cloud+%26+DevOps;Kubernetes+%26+Nutanix;Network+%26+Security+Specialist;CI%2FCD+%26+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=550&lines=Infrastructure+Engineer;Cloud+%26+DevOps;Kubernetes+%26+Nutanix;CI%2FCD+%26+Automation)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.nattavee.com-0ea5e9?style=flat-square)](https://portfolio.nattavee.com)&nbsp;
 [![Blog](https://img.shields.io/badge/Blog-nattavee.com-10b981?style=flat-square)](https://nattavee.com)&nbsp;
@@ -92,9 +92,6 @@ I design and operate infrastructure at scale — containerized workloads on Kube
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mossZmossZ)
 
 </div>
-
-[![](https://komarev.com/ghpvc/?username=mossZmossZ&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 
 ## Connect
