@@ -83,11 +83,15 @@ I design and operate infrastructure at scale — containerized workloads on Kube
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mossZmossZ&theme=dark&hide_border=true&show_icons=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=mossZmossZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mossZmossZ&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com/?user=mossZmossZ&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mossZmossZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
+[![](https://komarev.com/ghpvc/?username=mossZmossZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
